@@ -1,0 +1,8 @@
+{
+  "name": "hyperapp-sandbox",
+  "version": "1.0.0",
+  "description": "this is a sandbox for hyperapp",
+  "main": "index.js",
+  "author": "sottar <ohrst.18@gmail.com>",
+  "license": "MIT"
+}

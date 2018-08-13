@@ -1,0 +1,3 @@
+[submodule "hyperapp"]
+	path = hyperapp
+	url = git@github.com:hyperapp/hyperapp.git
